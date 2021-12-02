@@ -1,5 +1,16 @@
-Here you can say lots of fun things about your site.
+# Baumer's Blog
 
-Maybe say a some things about yourself.
+Hi, I'm Alex.
 
-Or maybe what you plan to blog about.
+I'm a ferverently curious person, and I'm using this blog to document my learning.
+
+A few of the things I'm interested in:
+
+- Fairy Gardens
+- DIY
+- Python
+- Data Analysis
+- Graphic Design
+- Photography
+- Web Design
+- Videography
